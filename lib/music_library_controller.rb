@@ -18,6 +18,11 @@ class MusicLibraryController
       puts "What would you like to do?"
       
       choice = gets.strip
+      
+      
+      if 
+      
+      
     end
   end
   
