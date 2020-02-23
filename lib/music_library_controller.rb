@@ -19,7 +19,6 @@ class MusicLibraryController
       
       choice = gets.strip
       
-      
       case choice
         when 'list songs'
           self.list_songs
