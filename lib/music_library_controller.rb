@@ -24,10 +24,7 @@ class MusicLibraryController
         when choice == 'list songs'
           self.list_songs
         end
-      end
-          
-      
-      
+    
     end
   end
   
