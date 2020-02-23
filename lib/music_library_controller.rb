@@ -23,8 +23,8 @@ class MusicLibraryController
       case choice
         when 'list songs'
           self.list_songs
-        end
       end
+
     
     end
   end
