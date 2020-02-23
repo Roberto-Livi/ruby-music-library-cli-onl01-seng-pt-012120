@@ -23,6 +23,7 @@ class MusicLibraryController
       case choice
         when choice == 'list songs'
           self.list_songs
+        end
       end
           
       
