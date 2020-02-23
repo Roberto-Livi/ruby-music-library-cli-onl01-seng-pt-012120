@@ -20,7 +20,9 @@ class MusicLibraryController
       choice = gets.strip
       
       
-      
+      case choice
+        when choice == list_songs
+          
       
       
     end
